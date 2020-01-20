@@ -3,7 +3,7 @@ name: 🚗 Vehicle Suggestion
 about: Suggest a new vehicle to be added onto the server
 title: "[Make and Model] by [Author]"
 labels: new-vehicle
-assignees: TheAussie
+assignees: ""
 ---
 
 🚗 **What is the make and model of the vehicle that you want to add?** (e.g. Toyota 86 or Subaru Impreza WRX)
