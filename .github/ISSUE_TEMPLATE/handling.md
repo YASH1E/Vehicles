@@ -11,5 +11,6 @@ assignees: ""
 [Replace me]
 
 🔧 **What exactly needs to be changed?** (please, be verbose about what needs to be changed)
+https://gtamods.com/wiki/Handling.meta Use this for reference.
 
 [Replace me]
