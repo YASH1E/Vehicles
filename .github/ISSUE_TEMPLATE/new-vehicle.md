@@ -1,7 +1,7 @@
 ---
 name: 🚗 Vehicle Suggestion
 about: Suggest a new vehicle to be added onto the server
-title: ""
+title: "[Make and Model] by [Author]"
 labels: new-vehicle
 assignees: TheAussie
 ---
