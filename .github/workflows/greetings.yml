@@ -11,4 +11,3 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "Looks like this is your first issue on this repository. Please, fill the template completely to receive a quicker response from the staff members.\n\nThanks for playing on The Tofu Shop!"
-A
